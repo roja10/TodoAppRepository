@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0eab6b7-a81d-4b12-bc2d-82d0225cd896" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Todoapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Todoapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Todoapp/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Todoapp/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Todoapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Todoapp/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/migrations/0002_auto_20201027_1601.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jHFxdFfhobCzEH4l2AxvGv44B4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0eab6b7-a81d-4b12-bc2d-82d0225cd896" name="Default Changelist" comment="" />
+      <created>1603453358315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603453358315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1604210780793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604210780793" />
+  </component>
+</project>
